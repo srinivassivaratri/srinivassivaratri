@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<h3 align="center">Working on the intersection of backend and product development.</h3>
+<h3 align="center">Trying to build useful things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivassivaratri&label=Profile%20views&color=0e75b6&style=flat" alt="srinivassivaratri" /> </p>
 
