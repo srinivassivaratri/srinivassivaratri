@@ -4,7 +4,7 @@
 
 🖥️ I'm learning HTTP Servers at the moment
 
-🦩 You can follow me on [X@SrinivasSi78619](https://x.com/SrinivasSi78619)
+🦩 You can follow me on [X](https://x.com/SrinivasSi78619)
 
 
 
