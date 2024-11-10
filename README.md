@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
-<h3 align="center">Trying to build useful things</h3>
+<h3 align="center">Understanding by building things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivassivaratri&label=Profile%20views&color=0e75b6&style=flat" alt="srinivassivaratri" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/srinivassi78619" target="blank"><img src="https://img.shields.io/twitter/follow/srinivassi78619?logo=twitter&style=for-the-badge" alt="srinivassi78619" /></a> </p>
 
-- 🔭 I’m currently working on [webcrawler using javascript](https://github.com/srinivassivaratri/webcrawlerhttp)
+- 🔭 I’m currently working on [Chirpy - A RESTful API](https://github.com/srinivassivaratri/Chirpy)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **HTTP Servers**
 
 - 👯 I’m looking to collaborate on **backend development**
 
 - 🤝 I’m looking for help with **backend development and mobile app development**
 
-- 💬 Ask me about **Python, MySQL**
+- 💬 Ask me about **Python, MySQL, PostgreSQL**
 
 - 📫 How to reach me **srinivassivaratri1122@gmail.com**
 
